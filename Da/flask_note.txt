@@ -1,0 +1,28 @@
+INTRODUCTION TO FLASK WEB RRAMEWORK
+  Use to build web apps and APIs
+  Design to be light weight, flexible and easy to Use
+  flask follow the WEBSERVER GETWAY INTERFACE WSGI
+
+  BASED ON WSGI and Jinja2 template
+
+  BENEFITS
+    Minimalistic
+    Routing handle and generate response
+    template rendering
+    http request    , supports methods like GET POST PUT DELETE UPDATE
+    Built in web devt used for testing and debugging before deploring apps
+    Extensibility
+    Restful support-can be used to created RESTFUL APIs
+
+    SETTING UP FLASK AND ACTIVATING THE VIRTUAL ENVT
+         Install python and pip
+         Install the virtual ENVT
+         Setup the virtual ENVT --- python3 .m venv venv
+         upgrade pip
+         activate ur virtual environment source .\env\Scripts\activate
+         Install flask
+
+
+         CREATING THE FIRST app
+            app.py
+        
